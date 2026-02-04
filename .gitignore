@@ -20,3 +20,12 @@ packages/
 
 # Environment files
 .env
+
+# Ignore Visual Studio auto files
+*/Properties/
+
+# Ignore config files
+*/App.config
+
+# Ignore project files
+*.csproj
