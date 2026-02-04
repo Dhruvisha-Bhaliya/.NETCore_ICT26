@@ -24,4 +24,4 @@ Practical Assignment - 1
 
 ## Application Template
 
-(Assignment-1/ScreenTemplate/Project%20Template%20Console%20App.png)
+![Project Template – Console App](Assignment-1/ScreenTemplate/Project%20Template%20Console%20App.png)
