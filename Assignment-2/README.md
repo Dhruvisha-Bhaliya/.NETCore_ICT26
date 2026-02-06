@@ -15,7 +15,7 @@
 
 ## Application Template
 
-![Project Template – Console App](ScreenTemplate/Project%20Template%20Console%20App.png)
+![Project Template – Console App](Assignment-2_2/screenshots/Project%20Template%20Console%20App.png)
 
 
 2) Create an MVC Core web application to perform CRUD operations for Project allocation to employees using EntityFramework. Also create advance search functionality to search employee on project.
@@ -35,9 +35,12 @@ In Sql Server Management Studio -> Connect Server -> In Database -> Create New D
 ---->  Go to Visual Studio -> Data Connections -> Add Connection -> 
 
 **Data source** = Mirosoft SQL Server(Sql Client)
+
 **Server Name** = paste server name that copied from Sql Server Management studio server properties
+
 **Trust Server Certificate** -> must check true
 Select Database Name 
+
 **Test Connection** -> Must Succeeded.
 Final Click OK
 
@@ -87,4 +90,4 @@ Controller -> Right Click -> Add -> Controller -> MVC -> Controller -> **MVC Con
 
 ## Application Template
 
-![Project Template – Console App](ScreenTemplate/Project%20Template%20Console%20App.png)
+![Project Template – Console App](Assignment-2_2/screenshots/Project%20Template%20Console%20App.png)
