@@ -12,11 +12,9 @@ namespace Assignment_2_2
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddDbContext<Ict2projectAllocationDbContext>
-                (
-            option => option.UseSqlServer(builder.Configuration.GetConnectionString
-            ("ProjectAllocateString")!)
-                );
+            builder.Services.AddDbContext<Ict2projectAllocationDbContext>(
+    option => option.UseSqlServer(builder.Configuration.GetConnectionString("ProjectAllocateString")!)
+    );
 
 
             var app = builder.Build();
