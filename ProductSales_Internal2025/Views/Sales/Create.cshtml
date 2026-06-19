@@ -1,0 +1,43 @@
+﻿@model ProductSales_Internal2025.Models.Sale
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Sale</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+
+        <form asp-action="Create">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <input type="hidden" asp-for="ProductId" />
+            <input type="hidden" asp-for="BasePrice" />
+
+            <p><b>Product:</b> @ViewBag.Name</p>
+            <p><b>Price:</b> @ViewBag.Price</p>
+
+            <div class="form-group">
+                <label asp-for="SaleDate"></label>
+                <input asp-for="SaleDate" type="date" class="form-control" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Discount"></label>
+                <input asp-for="Discount" class="form-control" />
+            </div>
+
+            <br />
+            <button type="submit" class="btn btn-primary">Create</button>
+
+        </form>
+
+    </div>
+</div>
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

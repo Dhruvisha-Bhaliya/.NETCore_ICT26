@@ -1,0 +1,284 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|d:\\.net core\\employeesalary_internal2024\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\controllers\\incrementdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\incrementdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|d:\\.net core\\employeesalary_internal2024\\employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|d:\\.net core\\employeesalary_internal2024\\employeeapi\\controllers\\incrementdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\incrementdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\views\\incrementdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\incrementdetails\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\views\\incrementdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\incrementdetails\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\views\\incrementdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\incrementdetails\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|d:\\.net core\\employeesalary_internal2024\\employeemvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B41809-23F6-4FDF-945F-2E841509146C}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|d:\\.net core\\employeesalary_internal2024\\employeeapi\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D575404B-78FB-45AC-B34C-DFC2B2DE5FC3}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 311,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAowJgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:35:17.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:16:38.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IncrementDetailsController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Controllers\\IncrementDetailsController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\IncrementDetailsController.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Controllers\\IncrementDetailsController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\IncrementDetailsController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAowKMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:35:24.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IncrementDetailsController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Controllers\\IncrementDetailsController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\IncrementDetailsController.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Controllers\\IncrementDetailsController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\IncrementDetailsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:16:45.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Program.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:31:01.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Designation.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Models\\Designation.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:22:31.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\IncrementDetails\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\IncrementDetails\\Index.cshtml",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\IncrementDetails\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\IncrementDetails\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T17:54:20.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T17:44:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\IncrementDetails\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\IncrementDetails\\Details.cshtml",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\IncrementDetails\\Details.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\IncrementDetails\\Details.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T17:54:05.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T17:59:54.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\IncrementDetails\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\IncrementDetails\\Create.cshtml",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Views\\IncrementDetails\\Create.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\IncrementDetails\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T17:53:03.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Program.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:30:36.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:35:11.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Designation.cs",
+              "ToolTip": "D:\\.NET CORE\\EmployeeSalary_Internal2024\\EmployeeAPI\\Models\\Designation.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Designation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T17:22:23.622Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

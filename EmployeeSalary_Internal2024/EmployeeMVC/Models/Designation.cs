@@ -1,0 +1,11 @@
+﻿namespace EmployeeMVC.Models
+{
+    public enum Designation
+    {
+        GeneralManager,
+        ProjectManager,
+        TeamLeader,
+        Developer,
+        Tester
+    }
+}
