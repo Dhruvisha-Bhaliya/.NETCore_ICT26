@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\.NET CORE\\StudentManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|d:\\.net core\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|d:\\.net core\\studentmanagementapi\\student-management-ui\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|solutionrelative:student-management-ui\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|d:\\.net core\\studentmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76EBFDDC-2786-4C82-8019-23060CA8B9E3}|StudentManagementAPI.csproj|d:\\.net core\\studentmanagementapi\\controllers\\enrollmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -65,10 +65,6 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CoursesController.cs",
@@ -78,18 +74,17 @@
               "RelativeToolTip": "Controllers\\CoursesController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T16:11:27.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T16:11:27.771Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.jsx",
               "DocumentMoniker": "D:\\.NET CORE\\StudentManagementAPI\\student-management-ui\\src\\App.jsx",
               "RelativeDocumentMoniker": "student-management-ui\\src\\App.jsx",
               "ToolTip": "D:\\.NET CORE\\StudentManagementAPI\\student-management-ui\\src\\App.jsx",
               "RelativeToolTip": "student-management-ui\\src\\App.jsx",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwDIAAACSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-02-23T15:38:10.042Z",
               "EditorCaption": ""
@@ -104,21 +99,19 @@
               "RelativeToolTip": "Controllers\\StudentsController.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwGcAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T18:56:52.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T18:56:52.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\.NET CORE\\StudentManagementAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\.NET CORE\\StudentManagementAPI\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\.NET CORE\\StudentManagementAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T18:51:22.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T18:51:22.249Z"
             },
             {
               "$type": "Document",
@@ -130,8 +123,7 @@
               "RelativeToolTip": "Controllers\\EnrollmentsController.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAcwBYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-23T15:57:08.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-23T15:57:08.74Z"
             },
             {
               "$type": "Document",
@@ -143,8 +135,7 @@
               "RelativeToolTip": "Models\\StudentManagementDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-20T18:50:58.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T18:50:58.408Z"
             },
             {
               "$type": "Document",
@@ -156,8 +147,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAEAAAAAAAAAAAAkwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-20T18:29:57.716Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-20T18:29:57.716Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }

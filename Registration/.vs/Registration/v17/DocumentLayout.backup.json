@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NET CORE\\Registration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|d:\\.net core\\registration\\api_registration\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|solutionrelative:api_registration\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|d:\\.net core\\registration\\api_registration\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|solutionrelative:api_registration\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|d:\\.net core\\registration\\api_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|solutionrelative:api_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|d:\\.net core\\registration\\api_registration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|solutionrelative:api_registration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|d:\\.net core\\registration\\api_registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CACE744-DBA2-4CE1-8269-56BBD97D2481}|API_Registration\\API_Registration.csproj|solutionrelative:api_registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\bills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\bills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\bills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\bills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\bills\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\bills\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\bills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\bills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\users\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\users\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\models\\ict2registrationpractisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\models\\ict2registrationpractisedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|d:\\.net core\\registration\\mvc_registration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{72534870-28F9-4001-B5DC-1A7B25E03014}|MVC_Registration\\MVC_Registration.csproj|solutionrelative:mvc_registration\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\API_Registration\\Models\\User.cs",
+              "RelativeDocumentMoniker": "API_Registration\\Models\\User.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\API_Registration\\Models\\User.cs",
+              "RelativeToolTip": "API_Registration\\Models\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:43:22.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\API_Registration\\appsettings.json",
+              "RelativeDocumentMoniker": "API_Registration\\appsettings.json",
+              "ToolTip": "D:\\.NET CORE\\Registration\\API_Registration\\appsettings.json",
+              "RelativeToolTip": "API_Registration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T15:40:00.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\API_Registration\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API_Registration\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\API_Registration\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API_Registration\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAnwGEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:47:54.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\API_Registration\\Program.cs",
+              "RelativeDocumentMoniker": "API_Registration\\Program.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\API_Registration\\Program.cs",
+              "RelativeToolTip": "API_Registration\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:37:11.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\API_Registration\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "API_Registration\\Controllers\\BillsController.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\API_Registration\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "API_Registration\\Controllers\\BillsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T15:49:07.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Bills\\Edit.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Bills\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:48:43.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Bills\\Details.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Details.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Bills\\Details.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:29:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Bills\\Create.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Create.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Bills\\Create.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:17:23.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MVC_Registration\\Models\\User.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Models\\User.cs",
+              "RelativeToolTip": "MVC_Registration\\Models\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:57:19.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "MVC_Registration\\Controllers\\BillsController.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "MVC_Registration\\Controllers\\BillsController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwEwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:12:25.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T12:02:30.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\appsettings.json",
+              "RelativeDocumentMoniker": "MVC_Registration\\appsettings.json",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\appsettings.json",
+              "RelativeToolTip": "MVC_Registration\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T12:05:16.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Registration\\Program.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Program.cs",
+              "RelativeToolTip": "MVC_Registration\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:29:59.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Bills\\Index.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Bills\\Index.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Bills\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:35:35.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T13:48:39.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Users\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Users\\Login.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Users\\Login.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Users\\Login.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:51:51.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Users\\Register.cshtml",
+              "RelativeDocumentMoniker": "MVC_Registration\\Views\\Users\\Register.cshtml",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Views\\Users\\Register.cshtml",
+              "RelativeToolTip": "MVC_Registration\\Views\\Users\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-21T11:45:31.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MVC_Registration\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MVC_Registration\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T11:32:12.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ict2registrationPractiseDbContext.cs",
+              "DocumentMoniker": "D:\\.NET CORE\\Registration\\MVC_Registration\\Models\\Ict2registrationPractiseDbContext.cs",
+              "RelativeDocumentMoniker": "MVC_Registration\\Models\\Ict2registrationPractiseDbContext.cs",
+              "ToolTip": "D:\\.NET CORE\\Registration\\MVC_Registration\\Models\\Ict2registrationPractiseDbContext.cs",
+              "RelativeToolTip": "MVC_Registration\\Models\\Ict2registrationPractiseDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T12:03:23.729Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 117,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
