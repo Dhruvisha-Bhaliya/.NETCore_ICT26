@@ -1,0 +1,28 @@
+﻿@model Tuple<int, string, string, int, string>
+
+<h1>Edit Destination</h1>
+
+<form method="post">
+    <input type="hidden" name="id" value="@Model.Item1" />
+
+    <p>
+        <label>Destination Name:</label><br />
+        <input type="text" name="DestinationName" value="@Model.Item2" required />
+    </p>
+    <p>
+        <label>Country:</label><br />
+        <input type="text" name="Country" value="@Model.Item3" required />
+    </p>
+    <p>
+        <label>Estimated Cost:</label><br />
+        <input type="number" name="EstimatedCost" value="@Model.Item4" required />
+    </p>
+    <p>
+        <label>Best Season:</label><br />
+        <input type="text" name="BestSeason" value="@Model.Item5" required />
+    </p>
+    <p>
+        <button type="submit">Save Changes</button>
+        <a href="/Destination">Cancel</a>
+    </p>
+</form>

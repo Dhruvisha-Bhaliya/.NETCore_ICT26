@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ICT2_05\\Assignment-3_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:controllers\\destinationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\destination\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\destination\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\destination\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\destination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\destination\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\views\\destination\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:views\\destination\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|d:\\ict2_05\\assignment-3_1\\models\\destinationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF4300C0-B07F-4B91-8212-471FC370B452}|Assignment-3_1.csproj|solutionrelative:models\\destinationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\Delete.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Destination\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:16:47.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\Edit.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Destination\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:16:32.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\Details.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Details.cshtml",
+              "RelativeToolTip": "Views\\Destination\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:16:08.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T06:08:27.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\Create.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Create.cshtml",
+              "RelativeToolTip": "Views\\Destination\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:07:22.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Destination\\Index.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Destination\\Index.cshtml",
+              "RelativeToolTip": "Views\\Destination\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:07:02.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DestinationController.cs",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Controllers\\DestinationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DestinationController.cs",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Controllers\\DestinationController.cs",
+              "RelativeToolTip": "Controllers\\DestinationController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:57:27.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:19:48.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T06:21:19.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DestinationModel.cs",
+              "DocumentMoniker": "D:\\ICT2_05\\Assignment-3_1\\Models\\DestinationModel.cs",
+              "RelativeDocumentMoniker": "Models\\DestinationModel.cs",
+              "ToolTip": "D:\\ICT2_05\\Assignment-3_1\\Models\\DestinationModel.cs",
+              "RelativeToolTip": "Models\\DestinationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T05:42:29.027Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+﻿@model List<Tuple<int, string, string, int, string>>
+
+<h1>Destinations List</h1>
+
+<p>
+    <a href="/Destination/Create">Add New Destination</a>
+</p>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Country</th>
+        <th>Estimated Cost</th>
+        <th>Best Season</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var d in Model)
+    {
+        <tr>
+            <td>@d.Item1</td>
+            <td>@d.Item2</td>
+            <td>@d.Item3</td>
+            <td>@d.Item4</td>
+            <td>@d.Item5</td>
+            <td>
+                <a href="/Destination/Details/@d.Item1">Details</a> |
+                <a href="/Destination/Edit/@d.Item1">Edit</a> |
+                <a href="/Destination/Delete/@d.Item1">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
